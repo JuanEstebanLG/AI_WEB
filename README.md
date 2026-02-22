@@ -36,3 +36,10 @@ El producto prioriza claridad, orden y progreso sostenible:
 
 ## Estado del proyecto
 La web esta preparada para ser publicada en Vercel como sitio estatico.
+
+## Estructura del proyecto
+- `index.html`: entrada principal de la aplicacion.
+- `ai-course.html`: alias legacy que redirige a `/`.
+- `assets/css/styles.css`: estilos globales.
+- `assets/js/main.js`: logica de la interfaz y estado.
+- `vercel.json`: configuracion de headers y cache para produccion.
