@@ -1,81 +1,38 @@
-<div align="center">
-
 # AI Developer Path
 
-### Ruta interactiva para pasar de backend a desarrollo de IA
+Ruta interactiva para pasar de backend a desarrollo de IA con un enfoque practico, medible y progresivo.
 
-[![Estado](https://img.shields.io/badge/Estado-Listo%20para%20usar-16a34a?style=for-the-badge)](./ai-course.html)
-[![Idioma](https://img.shields.io/badge/Idioma-Español-0ea5e9?style=for-the-badge)](#)
-[![Licencia](https://img.shields.io/badge/Licencia-Uso%20educativo-f59e0b?style=for-the-badge)](#)
+## Que es
+AI Developer Path es una web educativa que organiza el aprendizaje de IA en bloques y capitulos, con una progresion clara desde fundamentos hasta temas aplicados.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=flat-square)](#)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square)](#)
+No es un curso lineal cerrado. Es una hoja de ruta guiada para estudiar con estructura, mantener foco y medir avance real.
 
-</div>
+## Motivacion
+Aprender IA suele ser caotico: demasiados recursos, orden poco claro y poca visibilidad del progreso.
 
----
+Esta web nace para resolver ese problema:
+- convertir contenido disperso en un camino concreto;
+- reducir friccion al decidir que estudiar despues;
+- sostener consistencia con seguimiento visible.
 
-## Objetivo
-Esta web está diseñada para ayudarte a estudiar IA de forma ordenada, visual y medible.
+## Que hace
+- Presenta un roadmap dividido por bloques y capitulos.
+- Muestra progreso global y por secciones.
+- Incluye sistema de XP y logros para reforzar continuidad.
+- Permite marcar capitulos y examenes completados.
+- Guarda el estado de avance entre sesiones.
+- Permite exportar e importar progreso en JSON.
 
-En lugar de consumir contenido suelto, sigues una ruta clara con bloques, capítulos, exámenes y progreso acumulado.
+## Para quien es
+- Desarrolladores backend que quieren migrar hacia IA aplicada.
+- Personas autodidactas que necesitan estructura, no solo recursos sueltos.
+- Estudiantes que quieren convertir estudio en avance trazable.
 
-## Qué ofrece
-- Roadmap de aprendizaje dividido en bloques y capítulos.
-- Seguimiento visual del avance general.
-- Sistema de progreso con XP y logros.
-- Recursos recomendados por tema.
-- Persistencia del avance entre sesiones.
-- Importación y exportación de progreso en JSON.
+## Enfoque
+El producto prioriza claridad, orden y progreso sostenible:
+- estudiar por etapas;
+- validar conocimientos por bloques;
+- mantener ritmo semanal en lugar de sesiones aisladas.
 
-## Cómo usarla
-1. Abre `ai-course.html` en tu navegador.
-2. Entra al **Mapa de Aprendizaje** y abre un bloque.
-3. Selecciona un capítulo y revisa sus temas y recursos.
-4. Marca el capítulo como completado cuando termines.
-5. Marca exámenes como aprobados cuando corresponda.
-6. Revisa tu progreso y desbloquea logros.
-
-## Flujo recomendado de estudio
-1. Completa capítulos en orden.
-2. No marques exámenes hasta haber cubierto todo el bloque.
-3. Exporta tu progreso al finalizar cada sesión.
-4. Importa el archivo cuando cambies de equipo o navegador.
-
-## Guardado de progreso
-Tu avance se guarda automáticamente mientras usas la web.
-
-También puedes:
-- Exportar tu estado actual a un archivo JSON.
-- Importar un JSON válido para continuar desde otro punto.
-- Resetear el progreso si quieres reiniciar la ruta.
-
-## Para quién es
-- Desarrolladores backend que quieren pasar a IA aplicada.
-- Personas que buscan una ruta guiada en lugar de cursos aislados.
-- Estudiantes que quieren medir avance de forma concreta.
-
-## Consejos de uso
-- Define una meta semanal por capítulos.
-- Usa los logros como checkpoints, no como objetivo final.
-- Prioriza consistencia: sesiones cortas y frecuentes.
-
-## Ejecutar localmente
-Puedes abrir el archivo directamente o usar servidor local:
-
-```powershell
-cd C:\Users\user\OneDrive\Escritorio\AI_WEB
-python -m http.server 5500
-```
-
-Luego visita:
-
-`http://localhost:5500/ai-course.html`
-
----
-
-<div align="center">
-  <sub>Construido para aprender IA con estructura, seguimiento y foco.</sub>
-</div>
+## Estado del proyecto
+La web esta preparada para ser publicada en Vercel como sitio estatico.
